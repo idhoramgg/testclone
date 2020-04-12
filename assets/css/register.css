@@ -1,0 +1,32 @@
+.splash_img {
+    background: url(https://www.kudan-japanese-school.com/img/cookingclass/header.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+body {
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    background-color: pink;
+  }
+
+.register1 h1 {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    font-family: monospace;
+}
+
+.body1 {
+    padding: 20px;
+    border: 2px solid white;
+
+    
+}
+footer {
+    margin-top: 100px;
+    background-color: whitesmoke;
+}
