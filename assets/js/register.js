@@ -86,7 +86,7 @@ const getMockAPI = async () => {
         await response.json();
         if (response) {
             alert("Registration Succsess");
-            window.location.href = `${window.origin}/index.html`;
+            window.location.href = `${window.origin}/isi.html`;
           } else {
             alert("Registration Failed");
           }

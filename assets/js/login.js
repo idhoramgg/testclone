@@ -21,7 +21,7 @@ let loginUser = async (event) => {
   try {
     data[0].email === email && data[0].password === password;
     alert("Login Succsess");
-    window.location = "index.html";
+    window.location = "isi.html";
   } catch {
     alert("Login Gagal");
   }
